@@ -6,7 +6,7 @@
 ?>
 <html>
 	<head>
-		<!-- put your header information here - for this example script, Bootstrap 3.x of is required for CSS -->
+		<!-- put your header information here - for this example script, Bootstrap 3.x is required for CSS -->
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 		<script src="js/gallery_script.js"></script>
 		<script>
